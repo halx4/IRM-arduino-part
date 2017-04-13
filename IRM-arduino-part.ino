@@ -66,14 +66,6 @@ struct TimerStruct {
 TimerStruct timers[5];
 
 
-
-
-unsigned long int buttonTimeMark=0;
-unsigned long int countdownTimeMark=0;
-
-unsigned long int LCMRM=0;
-unsigned long int LCDRM=0;
-
 //----  FINITE STATE MACHINE  ----------
 enum ButtonStateType {NOT_PRESSED,
 	PRESSED,
