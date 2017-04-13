@@ -1,0 +1,2 @@
+enum timerNames { RHET=0,BRT,HRT,LIGHT_COUNTDOWN,BUTTON_HOLD};
+
